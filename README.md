@@ -1,4 +1,4 @@
 # apnacollege.demo
 this is my first repository
 <br>
-author : khushi kumari
+author : khushi thakur
